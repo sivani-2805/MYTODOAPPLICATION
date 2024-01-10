@@ -5,11 +5,11 @@ It allows users to add tasks with titles, descriptions, due dates, priorities, c
 The tasks are stored locally using SQLite database.
 
 SETUP:-
-Prerequisites
+1:Prerequisites
 Make sure you have the following installed on your system:
 Android Studio
 Java Development Kit (JDK)
-Installation
+2:Installation
 1:Clone the repository:
 2:Open the project in Android Studio.
 3:Build the project to ensure all dependencies are downloaded.
