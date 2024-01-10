@@ -56,6 +56,12 @@ This project utilizes SQLite for local storage and follows Android development b
 
 
 ![Screenshot_1ST PAGE](https://github.com/sivani-2805/MYTODOAPPLICATION/assets/82133514/de9f490c-99d0-4e33-892b-259f68b50c00)
+![Screenshot_2ND PAGE](https://github.com/sivani-2805/MYTODOAPPLICATION/assets/82133514/82ff10b7-0a76-4321-ad42-9ef676013854)
+![Screenshot_3RD PAGE](https://github.com/sivani-2805/MYTODOAPPLICATION/assets/82133514/f347cb62-95af-41aa-a0c6-036071e55213)
+![Screenshot_4RTH PAGE](https://github.com/sivani-2805/MYTODOAPPLICATION/assets/82133514/60c2b921-7c46-4b9c-810b-2af1e08b8597)
+![Screenshot_5TH PAGE](https://github.com/sivani-2805/MYTODOAPPLICATION/assets/82133514/aa143c02-dc0e-4aac-aa4c-efe9b93b0e84)
+![Screenshot_6TH PAGE](https://github.com/sivani-2805/MYTODOAPPLICATION/assets/82133514/cbb3fc4f-8941-4591-814c-620d209bc66a)
+
 
 
 
