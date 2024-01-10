@@ -1,19 +1,28 @@
 # MYTODOAPPLICATION
 OVERVIEW:-
+
 Todo Manager is a  Android application for managing your tasks. 
+
 It allows users to add tasks with titles, descriptions, due dates, priorities, categories, and statuses.
+
 The tasks are stored locally using SQLite database.
 
 SETUP:-
 
 1:Prerequisites
+
 Make sure you have the following installed on your system:
-Android Studio
-Java Development Kit (JDK)
+
+     1:Android Studio
+     
+     2:Java Development Kit (JDK)
 
 2:Installation
-1:Clone the repository:
+
+1:Clone the repository
+
 2:Open the project in Android Studio.
+
 3:Build the project to ensure all dependencies are downloaded.
 
 USAGE:-
@@ -38,5 +47,6 @@ AddTaskActivity.java: Manages the screen for adding new tasks.
 
 TaskDatabaseHelper.java: SQLite database helper for managing tasks' data.
 
-ACKNOWLEDGMENTS
+ACKNOWLEDGMENTS:-
+
 This project utilizes SQLite for local storage and follows Android development best practices.
